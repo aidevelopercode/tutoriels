@@ -12,6 +12,7 @@ def do_this():
 @my_decorator
 def do_that(): 
     print('Doing that')
+    
 
 
 do_this()
